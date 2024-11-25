@@ -1,0 +1,8 @@
+C:\code\System Utilities\OneClickShutdowner\OneClickShutdowner\bin\Debug\OneClickShutdowner.exe
+C:\code\System Utilities\OneClickShutdowner\OneClickShutdowner\bin\Debug\OneClickShutdowner.pdb
+C:\code\System Utilities\OneClickShutdowner\OneClickShutdowner\obj\Debug\OneClickShutdowner.csprojAssemblyReference.cache
+C:\code\System Utilities\OneClickShutdowner\OneClickShutdowner\obj\Debug\OneClickShutdowner.Properties.Resources.resources
+C:\code\System Utilities\OneClickShutdowner\OneClickShutdowner\obj\Debug\OneClickShutdowner.csproj.GenerateResource.cache
+C:\code\System Utilities\OneClickShutdowner\OneClickShutdowner\obj\Debug\OneClickShutdowner.csproj.CoreCompileInputs.cache
+C:\code\System Utilities\OneClickShutdowner\OneClickShutdowner\obj\Debug\OneClickShutdowner.exe
+C:\code\System Utilities\OneClickShutdowner\OneClickShutdowner\obj\Debug\OneClickShutdowner.pdb
