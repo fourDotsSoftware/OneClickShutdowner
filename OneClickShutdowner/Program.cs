@@ -15,7 +15,7 @@ namespace OneClickShutdowner
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            SystemStateMananger.Sleep();
+            SystemStateMananger.Shutdown();
         }        
     }
 }
